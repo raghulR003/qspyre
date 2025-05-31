@@ -1,10 +1,6 @@
-# QSpyre Landing Page
+# QSpyre - the AI/ML benchmark creation and evaluation platform.
 
-A modern, responsive landing page for QSpyre - the AI/ML benchmark creation and evaluation platform.
-
-## About QSpyre
-
-QSpyre is a comprehensive platform for designing, sharing, and evaluating benchmarks across any AI/ML domain. From LLMs and vision models to multi-modal systems and custom pipelines, QSpyre provides researchers, developers, and organizations with the tools to quantitatively evaluate AI/ML models from a unified, bird's-eye perspective.
+A comprehensive platform for designing, sharing, and evaluating benchmarks across any AI/ML domain. From LLMs and vision models to multi-modal systems and custom pipelines, QSpyre provides researchers, developers, and organizations with the tools to quantitatively evaluate AI/ML models from a unified, bird's-eye perspective.
 
 ## Project Overview
 
